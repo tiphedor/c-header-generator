@@ -1,10 +1,9 @@
 {
   "name": "c-header-generator",
   "main": "./lib/c-header-generator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Auto insert an include guard into .h file",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "c-header-generator:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
