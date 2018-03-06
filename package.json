@@ -1,7 +1,7 @@
 {
   "name": "c-header-generator",
   "main": "./lib/c-header-generator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Auto insert an include guard into .h file",
   "keywords": [],
   "activationCommands": {
