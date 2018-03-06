@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "c-header-generator:toggle"
   },
-  "repository": "https://github.com/tiphedor/c-header-generator",
+  "repository": "git@github.com:tiphedor/c-header-generator.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
